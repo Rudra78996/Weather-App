@@ -1,3 +1,3 @@
 # Weather-App
 
-Weather App using JavaScripit and weatherapi
+Weather App using JavaScript and weatherapi
